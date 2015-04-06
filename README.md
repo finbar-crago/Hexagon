@@ -1,2 +1,1 @@
-# Hexagon
-![Hex](/hex.svg)
+[Hexagon](http://finbar-crago.github.io/Hexagon/)
