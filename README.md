@@ -1,1 +1,2 @@
 # Hexagon
+![Hex](/hex.svg)
